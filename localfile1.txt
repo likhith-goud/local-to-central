@@ -1,0 +1,3 @@
+git init
+to make a folder a srepository or
+in the folder initialized it
